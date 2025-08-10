@@ -12,7 +12,7 @@
 - 🎓 **Education**: MCA @ MIT-WPU | BCA Graduate  
 - 📍 **Location**: Pune, Maharashtra, India  
 - 📫 **Email**: [sajjad.mehsania@gmail.com](mailto:sajjad.mehsania@gmail.com)  
-- 🌐 **LinkedIn**: [sajjad-mehsania](https://www.linkedin.com/in/sajjad-mehsania)  
+- 🌐 **LinkedIn**: [sajjad-mehsania](https://www.linkedin.com/in/sajjad-mehsania-8b8969243/)  
 - 🛠️ **Code Style**: Simple, Readable, Modular  
 - 💬 **Philosophy**: _"Detect. Defend. Deliver."_  
 - 🔥 **Mission**: Solve problems using intelligent algorithms
