@@ -15,7 +15,8 @@
 - 🌐 **LinkedIn**: [sajjad-mehsania](https://www.linkedin.com/in/sajjad-mehsania)  
 - 🛠️ **Code Style**: Simple, Readable, Modular  
 - 💬 **Philosophy**: _"Detect. Defend. Deliver."_  
-- 🔥 **Mission**: Securing digital futures with intelligent code
+- 🔥 **Mission**: Solve problems using intelligent algorithms
+
 
 ---
 
@@ -31,11 +32,11 @@
 
 | 🚀 Project Name         | 🧰 Tech Stack            | 📌 Description                                                                 |
 |------------------------|--------------------------|--------------------------------------------------------------------------------|
-| **DiaDetect**            | Python, ML, TensorFlow    | Deepfake detection using Machine Learning                                     |
-| **Business Connector**   | Java, MySQL, HTML/CSS/JS  | Platform connecting founders, investors, and co-founders                      |
-| **OTP Scam Detector**    | Python, Sklearn           | Detects and mitigates OTP-based frauds with ML                                |
-| **CyberSafe Education**  | React, Firebase           | Awareness platform against phishing & scams                                   |
-| **Student Performance Tracker** | Java, MySQL         | Tracks academic data with basic data visualization                            |
+| **DiaDetect**            | Python, ML, RFC    | Diabetes prediction using Machine Learning                                     |
+| **Business Connector**   | Java, MySQL, HTML/CSS/JS  | Platform connecting founders, investors, and co-founders |
+| **Time-Shifted Encryption**    | Python, Machine -Learning           | A secure system that provides secure encryption before sending files |
+| **Deepfake Detection**  | Python, Deep-Learning          | Detecting Real vs Fake Images |
+| **Course Recommender** | Python, Machine-Learning         | Hybrid Model that recommends courses to user |
 
 ---
 
@@ -55,7 +56,7 @@
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   &nbsp;
-  <a href="https://www.linkedin.com/in/sajjad-mehsania" target="_blank">
+  <a href="https://www.linkedin.com/in/sajjad-mehsania" target="https://www.linkedin.com/in/sajjad-mehsania-8b8969243/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;
