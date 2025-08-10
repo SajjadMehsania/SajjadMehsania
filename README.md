@@ -11,7 +11,7 @@
 - 💡 **Name**: Sajjad Mehsania  
 - 🎓 **Education**: MCA @ MIT-WPU | BCA Graduate  
 - 📍 **Location**: Pune, Maharashtra, India  
-- 📫 **Email**: [sajjad.mehsania@gmail.com](mailto:sajjad.mehsania@gmail.com)  
+- 📫 **Email**: [mehsaniasajjad@gmail.com](mailto:mehsaniasajjad@gmail.com)  
 - 🌐 **LinkedIn**: [sajjad-mehsania](https://www.linkedin.com/in/sajjad-mehsania-8b8969243/)  
 - 🛠️ **Code Style**: Simple, Readable, Modular  
 - 💬 **Philosophy**: _"Detect. Defend. Deliver."_  
@@ -52,7 +52,7 @@
 ### 🤝 Let’s Connect
 
 <p align="center">
-  <a href="mailto:sajjad.mehsania@gmail.com" target="_blank">
+  <a href="mailto:mehsaniasajjad@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   &nbsp;
